@@ -1,0 +1,13 @@
+body {
+    background-color: #34183b;
+}
+
+.title-large {
+    font-size: 10rem;
+    color: #bf73f3;
+    font-family: cursive;
+}
+
+.margin-50 {
+    margin: 3.125rem;
+}
